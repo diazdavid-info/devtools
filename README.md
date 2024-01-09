@@ -5,3 +5,4 @@ https://github.com/marketplace/actions/setup-node-js-environment
 https://github.com/marketplace/actions/setup-pnpm
 https://pnpm.io/es/continuous-integration
 https://ubuntu.com/download/desktop
+https://github.com/marketplace/actions/netlify-actions
